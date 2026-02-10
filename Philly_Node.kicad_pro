@@ -60,59 +60,31 @@
       ],
       "drc_exclusions": [
         [
-          "items_not_allowed|85600001|77849976|5a02e0f7-95bd-4043-87e6-c27d5d938c08|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|97740000|81599977|9133d101-7ed6-4712-bab0-9175bb59c63c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
           "lib_footprint_issues|88100000|49630000|a1d928b8-8204-4961-944d-865bec368dff|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "lib_footprint_issues|96000000|51200000|6f33ba66-778b-4776-93a9-2190c65c613d|00000000-0000-0000-0000-000000000000",
+          "lib_footprint_issues|96625000|51200000|6f33ba66-778b-4776-93a9-2190c65c613d|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "lib_footprint_mismatch|83000000|74954999|5a02e0f7-95bd-4043-87e6-c27d5d938c08|00000000-0000-0000-0000-000000000000",
+          "silk_overlap|82560000|64723085|0efea52a-aaa3-484d-9b4e-2882ea014741|6ad6ecf7-1944-4baa-a8ac-2aefe794e3c5",
           ""
         ],
         [
-          "lib_footprint_mismatch|91540000|73849976|3d45163a-1d72-43c0-b5f9-9c144dd59688|00000000-0000-0000-0000-000000000000",
+          "silk_overlap|82560000|65873085|6ad6ecf7-1944-4baa-a8ac-2aefe794e3c5|f8c426b5-3204-4a04-b51a-0bc1464c8454",
           ""
         ],
         [
-          "lib_footprint_mismatch|91600000|64700000|7c2c1052-e856-4736-9efe-ade15306bb4c|00000000-0000-0000-0000-000000000000",
+          "silk_overlap|82560000|66923085|156a2c9a-584d-4d65-9b23-8ce4fc675f91|6ad6ecf7-1944-4baa-a8ac-2aefe794e3c5",
           ""
         ],
         [
-          "lib_footprint_mismatch|92700000|57399998|f57f558c-9b8f-4273-8768-4837723d3fa1|00000000-0000-0000-0000-000000000000",
+          "text_thickness|100100000|80275000|302f3471-4300-44be-bc8c-a89797322a9a|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "lib_footprint_mismatch|99112500|66000000|758b599a-260e-47cc-b1cc-927ee891750b|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "starved_thermal|90009999|54700000|2280cb60-80b3-47bb-98f1-da13069f6d5a|47f50582-9561-4b2c-88f3-7cfe841ea834|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|91000000|57909999|2280cb60-80b3-47bb-98f1-da13069f6d5a|96333e71-cdc3-4194-a77f-032fea524cfe|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|98600000|71429996|2280cb60-80b3-47bb-98f1-da13069f6d5a|219b4e1f-02ec-41ed-84e0-f30bf0f68b66|B.Cu",
-          ""
-        ],
-        [
-          "text_thickness|100100000|77950000|302f3471-4300-44be-bc8c-a89797322a9a|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "text_thickness|99700000|79850000|5d12b01f-b9b3-41d1-a940-8f7bb851f666|00000000-0000-0000-0000-000000000000",
+          "text_thickness|97500000|82525000|5d12b01f-b9b3-41d1-a940-8f7bb851f666|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -146,7 +118,7 @@
         "items_not_allowed": "error",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
@@ -664,12 +636,54 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part",
+          "name": "LCSC Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Note",
+          "name": "Note",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
