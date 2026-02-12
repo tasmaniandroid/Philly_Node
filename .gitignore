@@ -36,9 +36,14 @@ fp-info-cache
 *.kicad_sch_old
 
 # auto-gen Production files
-production/
+production/*
 fabrication-toolkit-options.json
 fp-lib-tabel
 *.zip
 *.rar
 fp-lib-table
+
+#Allow only specific production files.
+!production/Philly_Node.zip
+!production/bom.csv
+!production/positions.csv
