@@ -1,0 +1,193 @@
+(footprint "LED-ARRAY-SMD_4P-L1.0-W1.0-TR-RD"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.2 0.475 270)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "981c85bc-c65f-4e66-b3f2-9013e951f991")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "MHPA1010RGBDT"
+		(at 0 4.52 0)
+		(layer "F.Fab")
+		(uuid "e8b34d95-7bc6-458d-9b13-062133e039ef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_MEIHUA-MHPA1010RGBDT_C404280.html"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "923755b6-3dc5-4502-87e6-d5de517e3662")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1d3eebab-f4e9-4711-9431-3ee04182a25a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Part" "C404280"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fec7e43b-44c1-4c9d-a26d-f193b20182ad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Note" "Up Firing"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9ae3d45-c8c6-49b3-a90a-328831499016")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C404280"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "124bbfbb-f725-491a-88d2-874204203ed3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.58 -0.58)
+		(end -0.58 0.57)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8d36427e-da92-44dd-b5fa-7906c301b1c6")
+	)
+	(fp_line
+		(start 0.58 -0.58)
+		(end 0.58 0.57)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8335a495-a542-4cb4-9cc2-1d345c4ed366")
+	)
+	(fp_circle
+		(center 0.32 -1.16)
+		(end 0.390001 -1.16)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d6f816be-55ac-49eb-8c1e-5570c61985a2")
+	)
+	(fp_circle
+		(center 0.32 -0.8)
+		(end 0.39 -0.8)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "7f00cbd4-7d11-4d9e-a14f-d0981c1c49e6")
+	)
+	(fp_circle
+		(center 0.5 -0.5)
+		(end 0.53 -0.5)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "8ca00761-0e13-4779-90e5-306156c3a363")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "179c7007-3b29-4584-bbac-062d05fa0997")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd oval
+		(at 0.32 -0.52 180)
+		(size 0.36 0.69)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5506b432-86fd-46fa-bbbe-1dbbd356b37f")
+	)
+	(pad "2" smd oval
+		(at 0.32 0.52 180)
+		(size 0.36 0.69)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4f0ec78e-1f1e-43b1-88a7-12021f3e41d8")
+	)
+	(pad "3" smd oval
+		(at -0.32 0.52 180)
+		(size 0.36 0.69)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e892a287-6a4e-4d97-8a13-3c8280127f74")
+	)
+	(pad "4" smd oval
+		(at -0.32 -0.52 180)
+		(size 0.36 0.69)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f7ea8419-8ace-4066-ac8e-ef05c067cfd7")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/pager_parts.pretty/packages3d/LED-ARRAY-SMD_4P-L1.0-W1.0-H0.9.wrl"
+		(offset
+			(xyz 0 0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
+)

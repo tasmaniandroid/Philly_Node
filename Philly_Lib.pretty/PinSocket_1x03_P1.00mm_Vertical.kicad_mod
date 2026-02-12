@@ -1,0 +1,142 @@
+(footprint "PinSocket_1x03_P1.00mm_Vertical"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Through hole straight socket strip, 1x03, 1.00mm pitch, single row (https://gct.co/files/drawings/bc065.pdf), script generated")
+	(tags "Through hole socket strip THT 1x03 1.00mm single row")
+	(property "Reference" "REF**"
+		(at -0.29 -2.25 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c51c3642-ecd1-4e1d-a9f8-3c2653e1bcfd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED"
+		(at -0.29 4.25 0)
+		(layer "F.Fab")
+		(uuid "7c23ec78-a96f-4e43-b6c2-53815b308835")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fe17e9ca-232e-461f-b7a3-a37d80252292")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "043f7d05-1330-48d3-a584-d2d62ab766c0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole dnp)
+	(fp_line
+		(start -1.04 -0.75)
+		(end 0.085 -0.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e08b9226-79fe-44d2-a6e4-453080a45ab4")
+	)
+	(fp_line
+		(start -1.04 2.75)
+		(end -1.04 -0.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "97a893e2-9168-43b7-8c61-b1d203aecf8c")
+	)
+	(fp_line
+		(start 0.085 -0.75)
+		(end 0.46 -0.375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ab337612-7c57-4b82-86d6-3d338aaf5ea7")
+	)
+	(fp_line
+		(start 0.46 -0.375)
+		(end 0.46 2.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d2d98778-e52d-463e-99a8-964397d54802")
+	)
+	(fp_line
+		(start 0.46 2.75)
+		(end -1.04 2.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0b659f03-1ac2-4a28-8b92-1a4dbdefc473")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.29 1 90)
+		(layer "F.Fab")
+		(uuid "d228f478-6a9f-49cf-9249-248b7ac616d4")
+		(effects
+			(font
+				(size 0.9 0.9)
+				(thickness 0.14)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 0.85 0.85)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d661bf84-b4b1-40c6-ad8f-f49df089d418")
+	)
+	(pad "2" thru_hole circle
+		(at 0 1)
+		(size 0.85 0.85)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "408fa041-a308-4cdb-987a-c4c5fe3170a6")
+	)
+	(pad "3" thru_hole circle
+		(at 0 2)
+		(size 0.85 0.85)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "073ba034-9a9d-430e-86f9-6bfcbd0ef668")
+	)
+	(embedded_fonts no)
+)

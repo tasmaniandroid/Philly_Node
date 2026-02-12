@@ -60,26 +60,6 @@
       ],
       "drc_exclusions": [
         [
-          "lib_footprint_issues|88100000|49630000|a1d928b8-8204-4961-944d-865bec368dff|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "lib_footprint_issues|96625000|51200000|6f33ba66-778b-4776-93a9-2190c65c613d|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_overlap|82560000|64723085|0efea52a-aaa3-484d-9b4e-2882ea014741|6ad6ecf7-1944-4baa-a8ac-2aefe794e3c5",
-          ""
-        ],
-        [
-          "silk_overlap|82560000|65873085|6ad6ecf7-1944-4baa-a8ac-2aefe794e3c5|f8c426b5-3204-4a04-b51a-0bc1464c8454",
-          ""
-        ],
-        [
-          "silk_overlap|82560000|66923085|156a2c9a-584d-4d65-9b23-8ce4fc675f91|6ad6ecf7-1944-4baa-a8ac-2aefe794e3c5",
-          ""
-        ],
-        [
           "text_thickness|100100000|80275000|302f3471-4300-44be-bc8c-a89797322a9a|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -518,9 +498,9 @@
       {
         "bus_width": 12,
         "clearance": 0.1,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.127,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
