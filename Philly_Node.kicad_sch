@@ -11346,7 +11346,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+		(property "Footprint" "Philly_Lib:SOT-23-3"
 			(at 242.57 149.86 0)
 			(effects
 				(font
@@ -11427,7 +11427,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Philly_Lib:C_0603_1608Metric"
 			(at 127.9652 31.75 0)
 			(effects
 				(font
@@ -11505,7 +11505,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal"
+		(property "Footprint" "Philly_Lib:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal"
 			(at 20.32 181.356 90)
 			(effects
 				(font
@@ -11646,7 +11646,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Tactile_SPST_NO_Straight_TVAF44-N015C-R"
+		(property "Footprint" "Philly_Lib:SW_Tactile_SPST_NO_Straight_TVAF44-N015C-R"
 			(at 52.07 69.85 0)
 			(effects
 				(font
@@ -11789,7 +11789,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 121.92 160.02 0)
 			(effects
 				(font
@@ -11996,7 +11996,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 209.804 81.534 90)
 			(effects
 				(font
@@ -12074,7 +12074,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:Raytac_MDBT50Q"
+		(property "Footprint" "Philly_Lib:Raytac_MDBT50Q"
 			(at 129.54 101.6 0)
 			(effects
 				(font
@@ -12328,7 +12328,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 58.42 181.61 0)
 			(effects
 				(font
@@ -12404,7 +12404,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 257.556 87.884 90)
 			(effects
 				(font
@@ -12479,7 +12479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 190.754 113.284 90)
 			(effects
 				(font
@@ -12555,7 +12555,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pager_parts:SOD-523_L1.2-W0.8-LS1.6-BI"
+		(property "Footprint" "Philly_Lib:SOD-523_L1.2-W0.8-LS1.6-BI"
 			(at 38.1 44.45 0)
 			(effects
 				(font
@@ -12635,7 +12635,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Philly_Lib:C_0603_1608Metric"
 			(at 141.9352 31.75 0)
 			(effects
 				(font
@@ -12711,7 +12711,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 60.96 117.348 90)
 			(effects
 				(font
@@ -12787,7 +12787,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+		(property "Footprint" "Philly_Lib:L_0603_1608Metric"
 			(at 130.81 44.45 0)
 			(effects
 				(font
@@ -12864,7 +12864,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 111.76 160.02 0)
 			(effects
 				(font
@@ -12943,7 +12943,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323"
+		(property "Footprint" "Philly_Lib:D_SOD-323"
 			(at 120.65 172.72 0)
 			(effects
 				(font
@@ -13030,7 +13030,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Philly_Lib:C_0603_1608Metric"
 			(at 102.87 166.37 0)
 			(effects
 				(font
@@ -13109,7 +13109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Philly_Lib:C_0603_1608Metric"
 			(at 150.8252 45.72 0)
 			(effects
 				(font
@@ -13184,7 +13184,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 180.594 115.824 90)
 			(effects
 				(font
@@ -13259,7 +13259,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 44.704 69.596 90)
 			(effects
 				(font
@@ -13334,7 +13334,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 230.124 52.324 90)
 			(effects
 				(font
@@ -13410,7 +13410,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
+		(property "Footprint" "Philly_Lib:Fuse_1206_3216Metric"
 			(at 30.48 173.99 0)
 			(effects
 				(font
@@ -13490,7 +13490,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Philly_Lib:D_SOD-523"
 			(at 63.5 158.75 0)
 			(effects
 				(font
@@ -13584,7 +13584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 218.186 87.884 90)
 			(effects
 				(font
@@ -13662,7 +13662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "pager_parts:LED-ARRAY-SMD_4P-L1.0-W1.0-TR-RD"
+		(property "Footprint" "Philly_Lib:LED-ARRAY-SMD_4P-L1.0-W1.0-TR-RD"
 			(at 228.6 50.8 0)
 			(effects
 				(font
@@ -13891,7 +13891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Philly_Lib:C_0402_1005Metric"
 			(at 167.64 68.2752 0)
 			(effects
 				(font
@@ -14032,7 +14032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 60.96 114.808 90)
 			(effects
 				(font
@@ -14107,7 +14107,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 180.594 120.904 90)
 			(effects
 				(font
@@ -14248,7 +14248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Philly_Node_Lib:PinHeader_1x10_P1.27mm_Vertical"
+		(property "Footprint" "Philly_Lib:PinHeader_1x10_P1.27mm_Vertical"
 			(at 77.47 41.91 0)
 			(effects
 				(font
@@ -14342,7 +14342,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:C_0402_1005Metric"
 			(at 262.5852 119.38 0)
 			(effects
 				(font
@@ -14615,7 +14615,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pager_parts:SOD-523_L1.2-W0.8-LS1.6-BI"
+		(property "Footprint" "Philly_Lib:SOD-523_L1.2-W0.8-LS1.6-BI"
 			(at 38.1 34.29 0)
 			(effects
 				(font
@@ -14692,7 +14692,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Philly_Lib:R_0603_1608Metric"
 			(at 133.35 38.608 90)
 			(effects
 				(font
@@ -14825,7 +14825,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:TestPoint_Pad_D0.75mm"
+		(property "Footprint" "Philly_Lib:TestPoint_Pad_D0.75mm"
 			(at 95.25 83.82 0)
 			(effects
 				(font
@@ -14892,7 +14892,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_1.00mm:PinSocket_1x03_P1.00mm_Vertical"
+		(property "Footprint" "Philly_Lib:PinSocket_1x03_P1.00mm_Vertical"
 			(at 228.6 67.31 0)
 			(effects
 				(font
@@ -14966,7 +14966,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:DFN-6-1EP_2x2mm_P0.65mm_EP_DUAL"
+		(property "Footprint" "Philly_Lib:DFN-6-1EP_2x2mm_P0.65mm_EP_DUAL"
 			(at 228.6 82.55 0)
 			(effects
 				(font
@@ -15060,7 +15060,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Philly_Lib:C_0402_1005Metric"
 			(at 175.26 56.1848 0)
 			(effects
 				(font
@@ -15136,7 +15136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:USB_C_Receptacle_GCT_USB4110_MODIFIED_FOR_PROTRSION"
+		(property "Footprint" "Philly_Lib:USB_C_Receptacle_GCT_USB4110_MODIFIED_FOR_PROTRSION"
 			(at 33.02 123.19 0)
 			(effects
 				(font
@@ -15323,7 +15323,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 161.036 160.274 90)
 			(effects
 				(font
@@ -15401,7 +15401,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 241.046 138.684 90)
 			(effects
 				(font
@@ -15477,7 +15477,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pager_parts:WIRELM-SMD_E22-900M22S"
+		(property "Footprint" "Philly_Lib:WIRELM-SMD_E22-900M22S"
 			(at 213.36 129.54 0)
 			(effects
 				(font
@@ -15617,7 +15617,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_5x4.5"
+		(property "Footprint" "Philly_Lib:CP_Elec_5x4.5"
 			(at 40.3352 186.69 0)
 			(effects
 				(font
@@ -15693,7 +15693,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 190.754 118.364 90)
 			(effects
 				(font
@@ -15768,7 +15768,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pager_parts:LED0603-RD"
+		(property "Footprint" "Philly_Lib:LED_0603_1608Metric"
 			(at 167.64 171.45 0)
 			(effects
 				(font
@@ -15856,7 +15856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:DFN-6-1EP_2x2mm_P0.65mm_EP_DUAL"
+		(property "Footprint" "Philly_Lib:DFN-6-1EP_2x2mm_P0.65mm_EP_DUAL"
 			(at 266.7 82.55 0)
 			(effects
 				(font
@@ -16018,7 +16018,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:C_0402_1005Metric"
 			(at 46.6852 83.82 0)
 			(effects
 				(font
@@ -16095,7 +16095,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 60.96 181.61 0)
 			(effects
 				(font
@@ -16237,7 +16237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:TestPoint_Pad_D0.75mm"
+		(property "Footprint" "Philly_Lib:TestPoint_Pad_D0.75mm"
 			(at 95.25 81.28 0)
 			(effects
 				(font
@@ -16304,7 +16304,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm"
+		(property "Footprint" "Philly_Lib:Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm"
 			(at 154.94 62.23 0)
 			(effects
 				(font
@@ -16512,7 +16512,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Philly_Lib:C_0603_1608Metric"
 			(at 67.31 166.37 0)
 			(effects
 				(font
@@ -16590,7 +16590,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Philly_Node_Lib:YFP0006AFAV"
+		(property "Footprint" "Philly_Lib:YFP0006AFAV"
 			(at 86.36 173.99 0)
 			(effects
 				(font
@@ -16679,7 +16679,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TS1187A26015"
+		(property "Footprint" "Philly_Lib:SW_Tactile_SPST_NO_Straight_TVAF44-N015C-R"
 			(at 177.8 86.36 0)
 			(effects
 				(font
@@ -16888,7 +16888,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 97.79 179.07 0)
 			(effects
 				(font
@@ -16964,7 +16964,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 250.444 81.534 90)
 			(effects
 				(font
@@ -17039,7 +17039,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 230.124 58.674 90)
 			(effects
 				(font
@@ -17180,7 +17180,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 170.434 86.106 90)
 			(effects
 				(font
@@ -17258,7 +17258,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:C_0402_1005Metric"
 			(at 172.4152 100.33 0)
 			(effects
 				(font
@@ -17401,7 +17401,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.5mm"
+		(property "Footprint" "Philly_Lib:MountingHole_2.5mm"
 			(at 24.13 24.13 0)
 			(effects
 				(font
@@ -17527,7 +17527,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Philly_Lib:D_SOD-523"
 			(at 57.15 163.83 0)
 			(effects
 				(font
@@ -17624,7 +17624,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal"
+		(property "Footprint" "Philly_Lib:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal"
 			(at 40.64 173.99 0)
 			(effects
 				(font
@@ -17702,7 +17702,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.5mm"
+		(property "Footprint" "Philly_Lib:MountingHole_2.5mm"
 			(at 44.45 24.13 0)
 			(effects
 				(font
@@ -17765,7 +17765,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:C_0402_1005Metric"
 			(at 249.8852 119.38 0)
 			(effects
 				(font
@@ -17905,7 +17905,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Philly_Lib:R_0402_1005Metric"
 			(at 230.124 45.974 90)
 			(effects
 				(font
