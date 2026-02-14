@@ -122,17 +122,6 @@
 		(uuid "80d138a8-86e1-49c0-a913-ed21377e82bf")
 	)
 	(fp_circle
-		(center 0.32 -0.8)
-		(end 0.39 -0.8)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(fill no)
-		(layer "Cmts.User")
-		(uuid "04b908d1-0999-4e46-a65e-ec12af21fc48")
-	)
-	(fp_circle
 		(center 0.5 -0.5)
 		(end 0.53 -0.5)
 		(stroke
