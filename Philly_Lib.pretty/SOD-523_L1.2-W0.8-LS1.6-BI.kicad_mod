@@ -6,9 +6,9 @@
 	(descr "SOD-523_L1.2-W0.8-LS1.6-BI footprint")
 	(tags "SOD-523_L1.2-W0.8-LS1.6-BI footprint C383211")
 	(property "Reference" "REF**"
-		(at 2.2 0 0)
+		(at 2.2 0 180)
 		(layer "F.SilkS")
-		(uuid "757e6860-e04d-47c0-bafb-91c534b73c26")
+		(uuid "6321e3c0-0458-4cd0-8078-fac8343b732c")
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -17,9 +17,9 @@
 		)
 	)
 	(property "Value" "LESD5D5_0CT1G"
-		(at 0 2.5 0)
+		(at 0 2.5 180)
 		(layer "F.Fab")
-		(uuid "133d9b6d-bb71-402a-8494-07e25b6775e2")
+		(uuid "0566dfc5-53ca-4335-9b9b-4e2040f817a2")
 		(effects
 			(font
 				(size 1 1)
@@ -28,10 +28,10 @@
 		)
 	)
 	(property "Datasheet" "https://lcsc.com/product-detail/TVS_ESD5Z5V0C_C129211.html"
-		(at 0 0 0)
+		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "e00acfc7-013f-4ec5-b050-0ba180a1fa23")
+		(uuid "92101c56-c58c-40be-8db1-8ce5b66db73d")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -40,10 +40,10 @@
 		)
 	)
 	(property "Description" ""
-		(at 0 0 0)
+		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "d952d2f4-513f-467c-abb0-dd5008e422fe")
+		(uuid "8da69855-ac7d-4d63-beff-a0fd5bd8f47e")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -52,11 +52,11 @@
 		)
 	)
 	(property "LCSC" "C383211"
-		(at 0 0 180)
+		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "8c010be2-d8ac-435c-9d29-b293e8bfd1fb")
+		(uuid "9abe28ce-d5d9-4cda-bd72-bb234af6c14c")
 		(effects
 			(font
 				(size 1 1)
@@ -66,14 +66,14 @@
 	)
 	(attr smd)
 	(fp_line
-		(start 0 -0.228601)
-		(end 0 0.254001)
+		(start -0.650013 -0.5)
+		(end 0.650013 -0.5)
 		(stroke
-			(width 0.1)
+			(width 0.13)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "dde580f1-bf65-4e0e-9fe3-7fcf822ed11c")
+		(uuid "a8c3e204-1464-437d-b219-bb0a253fdc14")
 	)
 	(fp_line
 		(start -0.650013 0.5)
@@ -83,17 +83,17 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "3e7ca01d-a3f0-46ca-adaa-a046d8c19aaa")
+		(uuid "04aa5339-116e-4280-a1ab-18fa198b39b2")
 	)
 	(fp_line
-		(start -0.650013 -0.5)
-		(end 0.650013 -0.5)
+		(start 0 -0.228601)
+		(end 0 0.254001)
 		(stroke
-			(width 0.13)
+			(width 0.1)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "0ae121ae-1efc-4b08-b563-42ab4d75dcf6")
+		(uuid "1058bef2-c7a3-48a6-b644-dffe3c7325db")
 	)
 	(fp_circle
 		(center -0.799975 0.400051)
@@ -104,7 +104,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "728a0781-dd17-4e88-8801-964efbefbe70")
+		(uuid "05e57e56-e523-493c-9ef4-7d7f39e70c15")
 	)
 	(fp_rect
 		(start -1.1 -0.5)
@@ -115,12 +115,12 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "06610743-4e04-4780-b82e-bef8bf622d1f")
+		(uuid "360445f4-e4ee-498a-8d04-c403c39e40f0")
 	)
 	(fp_text user "REF**"
-		(at 0 4.500001 0)
+		(at 0 4.500001 180)
 		(layer "F.Fab")
-		(uuid "a48fb94b-4c6c-4c80-844f-e1ac9b824012")
+		(uuid "bd8a24d9-2d0a-4e29-9a63-60ca299d1053")
 		(effects
 			(font
 				(size 1 1)
@@ -129,16 +129,17 @@
 		)
 	)
 	(pad "1" smd rect
-		(at -0.749936 0 180)
+		(at -0.749936 0)
 		(size 0.6 0.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "dcbdf49b-271d-4c9d-8be4-6f18462525d2")
+		(zone_connect 2)
+		(uuid "4f9a234f-5bb0-4104-9de3-022b1a40a42e")
 	)
 	(pad "2" smd rect
-		(at 0.749936 0)
+		(at 0.749936 0 180)
 		(size 0.6 0.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "5f5f302b-c7ea-455c-b530-084a49d9f37a")
+		(uuid "998983f0-edef-4ae5-856f-90f66835c12f")
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/Philly_Node_Lib/SOD-523_L1.2-W0.8-LS1.6-BI.step"

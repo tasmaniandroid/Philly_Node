@@ -6,9 +6,9 @@
 	(descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 	(tags "inductor")
 	(property "Reference" "REF**"
-		(at 2.425 0.064 90)
+		(at 1.99 0.017 90)
 		(layer "F.SilkS")
-		(uuid "2094acb5-fa77-403a-a915-94b69711515f")
+		(uuid "a6d2f129-094d-4e9a-bcc5-e851f135431a")
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -19,7 +19,7 @@
 	(property "Value" "10uH"
 		(at -2.852895 2.078 180)
 		(layer "F.Fab")
-		(uuid "cb435d02-2003-4eb9-899d-91e51cb4d2ee")
+		(uuid "c25bcf0c-865b-4654-895a-ef274002145a")
 		(effects
 			(font
 				(size 1 1)
@@ -31,7 +31,7 @@
 		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "5e6428fc-4084-43c8-9463-6a6e07a11735")
+		(uuid "c7f2a395-40b9-40aa-867e-41e382001766")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ee4d2671-a171-4dc6-bb90-62735661c964")
+		(uuid "af458b0c-1f41-4e0d-adb9-3b58604afc10")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -56,7 +56,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "efbbfce6-f7f1-413d-b33d-13af7033770e")
+		(uuid "3bd50a42-ad92-4404-87b7-e261d03a50bc")
 		(effects
 			(font
 				(size 1 1)
@@ -73,7 +73,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "8e26bede-5169-4ecd-b5ee-9be9de13d9b5")
+		(uuid "0bd28468-cfea-4b3e-a6a4-adc9eab5d139")
 	)
 	(fp_line
 		(start -0.162779 0.51)
@@ -83,7 +83,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "2ffd359c-3a8a-4fb0-8f44-f98ff3786402")
+		(uuid "e79d3abd-e311-4c46-8cbd-45273df43bee")
 	)
 	(fp_line
 		(start -1.48 -0.73)
@@ -93,7 +93,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "505052b4-1327-4593-824b-42e14e3fd987")
+		(uuid "f77e2d8b-4201-497e-9b0d-c0d58b8bab62")
 	)
 	(fp_line
 		(start -1.48 0.73)
@@ -103,7 +103,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "a3b4aafb-6d3f-402a-b372-d6f140bae991")
+		(uuid "3bb8139f-c4cd-4031-b0b2-cfdeb586f964")
 	)
 	(fp_line
 		(start 1.48 -0.73)
@@ -113,7 +113,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "94cbe17f-aa13-4db3-ac28-3c8c630d76c1")
+		(uuid "c071fee8-b5a1-4c29-8219-70af7d17fc85")
 	)
 	(fp_line
 		(start 1.48 0.73)
@@ -123,7 +123,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "b02b747a-b5bc-460e-97ce-904d88dd3554")
+		(uuid "835a09da-9b85-439d-9ef6-a9f2b16b935b")
 	)
 	(fp_line
 		(start -0.8 -0.4)
@@ -133,7 +133,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "873482de-5291-43e9-ad1d-a0c0ce0c9511")
+		(uuid "0eaf5b1e-cb11-4f31-af48-9e29dc3ddbfe")
 	)
 	(fp_line
 		(start -0.8 0.4)
@@ -143,7 +143,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "bdf685e6-0a1c-4477-9128-067258e46a99")
+		(uuid "14c6d412-9dd4-43c0-9e4f-82fd6e81674e")
 	)
 	(fp_line
 		(start 0.8 -0.4)
@@ -153,7 +153,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "79c2563c-2a79-408e-9a36-90d1c782c2be")
+		(uuid "02523c3b-af00-453d-bcbc-0d37269fe5e9")
 	)
 	(fp_line
 		(start 0.8 0.4)
@@ -163,12 +163,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "537d31fd-bc45-42bf-8a8e-3dbdee9d4b1d")
+		(uuid "511829ee-9c68-40a7-8473-28df309a2be1")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 180)
 		(layer "F.Fab")
-		(uuid "466f22f0-c5be-4907-80a4-25760a89965b")
+		(uuid "bb9ad2fc-7e92-40f6-8586-c3fe7572f6df")
 		(effects
 			(font
 				(size 0.4 0.4)
@@ -181,14 +181,14 @@
 		(size 0.875 0.95)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "36868da9-3fd1-46cb-a5c0-9a43ad34bbc5")
+		(uuid "933b88f9-b06f-4349-bb17-e9092a4eb3e8")
 	)
 	(pad "2" smd roundrect
 		(at 0.7875 0)
 		(size 0.875 0.95)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "6f9dae38-f154-4eab-8d74-ac9b85a8c2e3")
+		(uuid "b1c2b983-c0cf-405a-9271-092bc6ba97a9")
 	)
 	(embedded_fonts no)
 	(model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0603_1608Metric.wrl"
