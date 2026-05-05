@@ -62,6 +62,10 @@
       ],
       "drc_exclusions": [
         [
+          "missing_courtyard|88750000|56970000|2c75e123-e30a-404e-8417-79c3b5891c7c|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
           "missing_courtyard|98325000|79000000|4f0c9344-7c92-45d4-a8c1-4695a5015fb6|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -75,6 +79,14 @@
         ],
         [
           "npth_inside_courtyard|90990000|51105000|f03534d7-0cf9-454b-9d92-6073063f81ae|7f074294-b7a5-47e5-be3e-ae833cef3ceb",
+          ""
+        ],
+        [
+          "text_thickness|100350000|80825000|6a107f74-99a3-4640-a545-71c1249e8dc6|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "text_thickness|97750000|83075000|fe0486ee-fa55-4575-9215-824f79754c63|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -545,7 +557,7 @@
         "bus_width": 12,
         "clearance": 0.1,
         "diff_pair_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.12,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -730,7 +742,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "reuse_designators": true,
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
